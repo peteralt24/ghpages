@@ -87,6 +87,7 @@ div {
 }
 
 #navItem {
+	  z-index: 9999;
     margin-bottom: 5px;
     right: 0;
     bottom: 0;
@@ -99,6 +100,7 @@ div {
 }
 
 #navItem2 {
+	  z-index: 9999;
     margin-bottom: 5px;
     right: 0;
     bottom: 0;
