@@ -88,6 +88,7 @@ div {
 
 #navItem {
     margin-bottom: 5px;
+    z-index: 9999;
     right: 0;
     bottom: 0;
     text-align: left;
@@ -100,6 +101,7 @@ div {
 
 #navItem2 {
     margin-bottom: 5px;
+    z-index: 9999;
     right: 0;
     bottom: 0;
     text-align: left;
