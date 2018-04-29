@@ -87,10 +87,9 @@ div {
 }
 
 #navItem {
-	  z-index: 9999;
     margin-bottom: 5px;
     right: 0;
-    top: 0;
+    bottom: 0;
     text-align: left;
     position: absolute;
     left: 0px;
@@ -100,9 +99,8 @@ div {
 }
 
 #navItem2 {
-	  z-index: 9999;
-    margin-top: 5px;
-    top: 0;
+    margin-bottom: 5px;
+    right: 0;
     bottom: 0;
     text-align: left;
     position: absolute;
