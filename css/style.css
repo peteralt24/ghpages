@@ -86,11 +86,25 @@ div {
   display: block;
 }
 
-.hide {
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
+#navItem {
+    margin-bottom: 5px;
+    right: 0;
+    bottom: 0;
+    text-align: left;
+    position: absolute;
+    left: 0px;
+    width: 48%;
+    margin-left: 5px;
+    text-align: center;
+}
+
+#navItem2 {
+    margin-bottom: 5px;
+    right: 0;
+    bottom: 0;
+    text-align: left;
+    position: absolute;
+    width: 48%;
+    margin-left: 5px;
+    text-align: center;
 }
