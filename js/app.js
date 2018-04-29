@@ -122,7 +122,7 @@ particlesJS('particles-js',
     "retina_detect": true,
     "config_demo": {
       "hide_card": false,
-      "background_color": "##062f4f",
+      "background_color": "#062f4f",
       "background_image": "",
       "background_position": "50% 50%",
       "background_repeat": "no-repeat",
