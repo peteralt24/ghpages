@@ -87,7 +87,8 @@ div {
 }
 
 #navItem {
-    margin-bottom: 1px;
+    margin-bottom: 1px; 
+	  margin: 0;
     z-index: 9999;
     right: 0;
     bottom: 0;
@@ -101,6 +102,7 @@ div {
 
 #navItem2 {
     margin-bottom: 1px;
+	  margin: 0;
     z-index: 9999;
     right: 0;
     bottom: 0;
